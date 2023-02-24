@@ -19,6 +19,8 @@ The website must meet accessibility standards. This was achieved by completing t
 <img width="468" alt="Horiseon" src="https://user-images.githubusercontent.com/121969930/221303426-a21ce443-2998-4dcb-9f1c-c64af82d3a09.png">
 
 ## Deployment
+https://ke-heslop.github.io/Refactor-X/
+
 
 ## Additional code re-factor
 The CSS file was re-factored to clean up repetition where element stylings could be grouped.
